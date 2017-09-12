@@ -1,8 +1,7 @@
 # 104hackathon
 
 ## [初戰心得完整版](https://medium.com/@cyeninesky3/104-hackathon-%E5%88%9D%E6%88%B0%E5%BF%83%E5%BE%97-a810cfe09192)
-![Medium](https://pbs.twimg.com/profile_images/900033008685666305/c6Q38U35_400x400.png)
-
+   - Medium
 ---
 
 ## 104 Hackathon 初戰心得
