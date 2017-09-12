@@ -1,11 +1,11 @@
 # 104hackathon
 
-- [參賽心得](https://medium.com/@cyeninesky3/104-hackathon-%E5%88%9D%E6%88%B0%E5%BF%83%E5%BE%97-a810cfe09192)
-![](https:// "title")
+# [參賽心得](https://medium.com/@cyeninesky3/104-hackathon-%E5%88%9D%E6%88%B0%E5%BF%83%E5%BE%97-a810cfe09192)
+![Medium](https://pbs.twimg.com/profile_images/900033008685666305/c6Q38U35_400x400.png)
 
 ---
 
-# 104 Hackathon 初戰心得
+## 104 Hackathon 初戰心得
 104 Hackathon 0729一整天比賽，實際前置作業大約1週。
 
 ## 心態：第一次參加黑客松
